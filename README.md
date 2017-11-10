@@ -19,4 +19,8 @@ Give a look at the file casa.py
 
 Give a look at the file blender.py
 
-I build my project with cubes. Wall, beam, column, floor, ceiling, all area cubes. In this script I recognize the type of element by its material
+I build my blender projects with cubes. Wall, beam, column, floor, ceiling, all are cubes. In this script I recognize the type of element by its material
+
+# contact
+
+senenbotello@gmail.com
